@@ -2,8 +2,7 @@
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...BCA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...itsmemoni07@gmail.com[github documentation.docx](https://github.com/finalpromoni/finalpromoni/files/9002612/github.documentation.docx)
-
+- 📫 How to reach me ...itsmemoni07@gmail.com
 
 <!---
 finalpromoni/finalpromoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
